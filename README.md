@@ -1,6 +1,6 @@
 # 🐍Python for Data
 
-En este repositorio he puesto lo más importante a mi criterio sobre este proyecto. Gracias al tema anterior de Python he ido cogiendo más soltura a la hora de hacer los ejercicios, cada vez entiendo mucho mejor el código, pero , en este proyecto me ha faltado ver mejor la parte de los gráficos ya que en el curso no se toca, directamente se menciona en el proyecto que hay que usarlos y la verdad que al principio me ha costado un poco... He intentando aprenderlo con videos y con la IA ya que son una herramienta más para poder realizar los trabajos.
+En este repositorio he puesto lo más importante a mi criterio sobre este proyecto. Gracias al tema anterior de Python he ido cogiendo más soltura a la hora de hacer los ejercicios, cada vez entiendo mucho mejor el código, pero , en este proyecto me ha faltado ver mejor la parte de los gráficos ya que en el curso no se toca, directamente se menciona en el proyecto que hay que usarlos y la verdad que al principio me ha costado un poco... He intentando aprenderlo con videos y con la IA ya que son una herramienta más para poder realizar los trabajos. Esta vez me he decantado por usar Jupyter Notebooks, que es el que se usan en las clases. Me parece más fácil de usar y así puedo separar el código que en este caso me ha venido bastante bien.
 
 
 ## 📊 Tecnologías Utilizadas
