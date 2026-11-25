@@ -5,7 +5,7 @@ En este repositorio he puesto lo más importante a mi criterio sobre este proyec
 
 ## 📊 Tecnologías Utilizadas
 
-* **Lenguaje**: Python 3.10+
+* **Lenguaje**: Python 3.14.4
 
 * **Análisis y Manipulación de Datos**: **`pandas`**, **`numpy`**
 
