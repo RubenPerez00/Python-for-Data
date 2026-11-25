@@ -11,7 +11,7 @@ En este repositorio he puesto lo más importante a mi criterio sobre este proyec
 
 * **Visualización**: **`matplotlib`**, **`seaborn`**
 
-* **Lectura de archivos**: Jupyter Notebooks / Visual Studio Code
+* **Entorno**: Jupyter Notebooks / Visual Studio Code
 
 
 ## 📋 Sobre el proyecto y los Notebooks
@@ -26,7 +26,7 @@ Juntar las piezas iniciales: Cargué el historial de llamadas (**`bank-additiona
 
 Buscar qué fallaba: Fui revisando qué columnas sobraban, dónde había nulos, si existían duplicados y por qué algunos números aparecían como texto.
 
-### - 🧹 2. Limpieza y Transformación (02_limpieza_de_datos.ipynb)
+### - 🧹 2. Limpieza y Transformación (02_limpieza.ipynb)
 
 Esta fue la parte más entretenida y donde más tiempo invertí, porque de dejar bien esta base dependía todo lo demás:
 
@@ -38,10 +38,11 @@ Decidir qué hacer con los nulos y datos raros: En lugar de borrar filas a lo lo
 
 Cruzar toda la información: Uní las pestañas de clientes de 2012 a 2014 y las crucé con el registro de campañas, dejando listo el archivo **`bank_customers_limpio.csv`** (42.996 filas y 31 columnas).
 
-### - 📈 3. Análisis Descriptivo y Visualización (03_analisis_descriptivo.ipynb)
+### - 📈 3. Análisis Descriptivo y Visualización (03_analisis_visualizacion_datos.ipynb)
 
 Ya con los datos limpios y ordenados, tocaba hacerse preguntas y ver qué contaban los números:
 
 ¿Cuánta gente dice que sí? (y): Vi que, de los 42.996 contactos válidos, solo 4.844 clientes acabaron contratando el depósito (un 11,27 % de éxito frente a un 88,73 % que dijo que no).
 
 Entender el perfil de las llamadas: Saqué métricas y gráficos para ver cómo se comportaban variables clave como la edad de los clientes, cuánto duraban las llamadas, cuántas veces se les contactaba o cómo influía el momento económico.
+
